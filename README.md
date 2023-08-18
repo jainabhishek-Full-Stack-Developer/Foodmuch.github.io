@@ -40,12 +40,6 @@ To view the website, simply open the `index.html` file in any web browser.
 - Bootstrap 4.5.2
 - Font Awesome 5.15.3
 
-## Credits
-
-- Food Munch Logo: [CCBP Responsive Website](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-img.png)
-- Background Images: [CCBP Responsive Website](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website)
-- Payment Card Icons: [CCBP Responsive Website](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website)
-- Thank You Image: [CCBP Responsive Website](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/thanking-customers-section-img.png)
 
 ## License
 
